@@ -1,7 +1,7 @@
 {
-    "host": "name.aternos.me",
-    "port": "99999",
+    "host": "UCSquat.aternos.me",
+    "port": "36353",
     "username": "MinecraftBot",
-    "edition": "java",
-    "javaVersion": "1.21.11"
+    "edition": "bedrock",
+    "javaVersion": "1.26.44.3"
 }
