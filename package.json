@@ -1,25 +1,15 @@
 {
-  "name": "minecraft-bot-dashboard",
-  "version": "2.0.0",
-  "description": "Advanced Minecraft Bot Dashboard (Java & Bedrock)",
-  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "name": "aterbot-bedrock",
+  "version": "1.0.1",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
-  "keywords": ["minecraft", "bot", "dashboard", "socket.io"],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "latest",
-    "socket.io": "latest",
-    "bedrock-protocol": "latest",
-    "mineflayer": "latest"
-  },
-  "devDependencies": {
-    "nodemon": "latest"
+    "bedrock-protocol": "^3.58.2"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=20"
   }
 }

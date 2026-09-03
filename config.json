@@ -1,0 +1,17 @@
+{
+  "client": {
+    "host": "UCSquat.aternos.me",
+    "port": 36353,
+    "username": "Bot",
+    "offline": true,
+    "minecraftVersion": "1.26.45.1"
+  },
+  "action": {
+    "moveInterval": 100,
+    "moveDuration": 5000,
+    "retryDelay": 15000
+  },
+  "web": {
+    "port": 8080
+  }
+}
